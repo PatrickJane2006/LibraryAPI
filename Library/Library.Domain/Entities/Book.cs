@@ -8,8 +8,9 @@ public class Book
     public string Description { get; set; } = "";
     public bool IsAvailable { get; set; } = true;
     public int AvailableCount { get; set; } = 0;
+    public string Genre { get; set; } = ""; 
+    public int Year { get; set; } 
 
     public ICollection<OrderBook> OrderBooks { get; set; } = new List<OrderBook>();
     public ICollection<Review> Reviews { get; set; } = new List<Review>();
-
 }

@@ -13,3 +13,4 @@ F:\КУРСОВАЯ (БИБЛИОТЕКА)\LibraryAPI\Library\Library.Applicatio
 F:\КУРСОВАЯ (БИБЛИОТЕКА)\LibraryAPI\Library\Library.Application\obj\Debug\net8.0\refint\Library.Application.dll
 F:\КУРСОВАЯ (БИБЛИОТЕКА)\LibraryAPI\Library\Library.Application\obj\Debug\net8.0\Library.Application.pdb
 F:\КУРСОВАЯ (БИБЛИОТЕКА)\LibraryAPI\Library\Library.Application\obj\Debug\net8.0\ref\Library.Application.dll
+F:\КУРСОВАЯ (БИБЛИОТЕКА)\LibraryAPI\Library\Library.Application\obj\Debug\net8.0\Library.Application.sourcelink.json

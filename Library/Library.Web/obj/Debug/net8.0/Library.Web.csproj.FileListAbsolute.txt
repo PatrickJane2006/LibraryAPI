@@ -146,3 +146,4 @@ F:\КУРСОВАЯ (БИБЛИОТЕКА)\LibraryAPI\Library\Library.Web\bin\De
 F:\КУРСОВАЯ (БИБЛИОТЕКА)\LibraryAPI\Library\Library.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 F:\КУРСОВАЯ (БИБЛИОТЕКА)\LibraryAPI\Library\Library.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
 F:\КУРСОВАЯ (БИБЛИОТЕКА)\LibraryAPI\Library\Library.Web\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+F:\КУРСОВАЯ (БИБЛИОТЕКА)\LibraryAPI\Library\Library.Web\obj\Debug\net8.0\Library.Web.sourcelink.json

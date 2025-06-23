@@ -22,7 +22,9 @@ namespace Library.Infrastructure.Migrations
                     Author = table.Column<string>(type: "text", nullable: false),
                     Description = table.Column<string>(type: "text", nullable: false),
                     IsAvailable = table.Column<bool>(type: "boolean", nullable: false),
-                    AvailableCount = table.Column<int>(type: "integer", nullable: false)
+                    AvailableCount = table.Column<int>(type: "integer", nullable: false),
+                    Genre = table.Column<string>(type: "text", nullable: false),
+                    Year = table.Column<int>(type: "integer", nullable: false)
                 },
                 constraints: table =>
                 {

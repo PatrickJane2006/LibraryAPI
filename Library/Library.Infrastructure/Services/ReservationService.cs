@@ -17,8 +17,8 @@ public class ReservationService : IReservationService
     {
         var overlapping = await _context.Reservations.AnyAsync(r =>
             r.SeatId == dto.SeatId &&
-            r.EndTime > dto.StartTime &&
-            r.StartTime < dto.EndTime);
+            r.EndTime > dto.StartTime.ToUniversalTime() &&
+            r.StartTime < dto.EndTime.ToUniversalTime());
 
         if (overlapping)
             throw new Exception("Место уже занято в это время");
@@ -27,8 +27,8 @@ public class ReservationService : IReservationService
         {
             UserId = userId,
             SeatId = dto.SeatId,
-            StartTime = dto.StartTime,
-            EndTime = dto.EndTime
+            StartTime = dto.StartTime.ToUniversalTime(),
+            EndTime = dto.EndTime.ToUniversalTime()
         };
 
         _context.Reservations.Add(reservation);

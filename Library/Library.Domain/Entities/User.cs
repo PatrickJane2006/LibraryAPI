@@ -14,10 +14,10 @@ public class User
     [Column(TypeName = "timestamp without time zone")]
     public DateTime BirthDate { get; set; }
 
-
-    public string Email { get; set; } = ""; // <--- добавляем
+    public string Email { get; set; } = ""; 
     public string PasswordHash { get; set; } = "";
     public UserRole Role { get; set; } = UserRole.User;
+
 
     public ICollection<Order> Orders { get; set; } = new List<Order>();
     public ICollection<Reservation> Reservations { get; set; } = new List<Reservation>();

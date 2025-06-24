@@ -44,9 +44,13 @@ public class BookService : IBookService
         {
             Title = dto.Title,
             Author = dto.Author,
+            Description = dto.Description ?? "Нет описания",
             Genre = dto.Genre,
-            Year = dto.Year
+            Year = dto.Year,
+            AvailableCount = dto.AvailableCount > 0 ? dto.AvailableCount : 1,
+            IsAvailable = true
         };
+
 
         _context.Books.Add(book);
         await _context.SaveChangesAsync();

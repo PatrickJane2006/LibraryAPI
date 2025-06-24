@@ -145,8 +145,8 @@ namespace Library.Infrastructure.Migrations
                         .Annotation("Npgsql:ValueGenerationStrategy", NpgsqlValueGenerationStrategy.IdentityByDefaultColumn),
                     UserId = table.Column<int>(type: "integer", nullable: false),
                     SeatId = table.Column<int>(type: "integer", nullable: false),
-                    FromTime = table.Column<DateTime>(type: "timestamp with time zone", nullable: false),
-                    ToTime = table.Column<DateTime>(type: "timestamp with time zone", nullable: false)
+                    StartTime = table.Column<DateTime>(type: "timestamp with time zone", nullable: false),
+                    EndTime = table.Column<DateTime>(type: "timestamp with time zone", nullable: false)
                 },
                 constraints: table =>
                 {

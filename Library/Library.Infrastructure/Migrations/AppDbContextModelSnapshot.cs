@@ -141,35 +141,6 @@ namespace Library.Infrastructure.Migrations
                     b.ToTable("ReadingRooms");
                 });
 
-            modelBuilder.Entity("Library.Domain.Entities.Reservation", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("integer");
-
-                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("Id"));
-
-                    b.Property<DateTime>("FromTime")
-                        .HasColumnType("timestamp with time zone");
-
-                    b.Property<int>("SeatId")
-                        .HasColumnType("integer");
-
-                    b.Property<DateTime>("ToTime")
-                        .HasColumnType("timestamp with time zone");
-
-                    b.Property<int>("UserId")
-                        .HasColumnType("integer");
-
-                    b.HasKey("Id");
-
-                    b.HasIndex("SeatId");
-
-                    b.HasIndex("UserId");
-
-                    b.ToTable("Reservations");
-                });
-
             modelBuilder.Entity("Library.Domain.Entities.Review", b =>
                 {
                     b.Property<int>("Id")
@@ -270,6 +241,35 @@ namespace Library.Infrastructure.Migrations
                     b.ToTable("Users");
                 });
 
+            modelBuilder.Entity("Reservation", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("integer");
+
+                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("Id"));
+
+                    b.Property<DateTime>("EndTime")
+                        .HasColumnType("timestamp with time zone");
+
+                    b.Property<int>("SeatId")
+                        .HasColumnType("integer");
+
+                    b.Property<DateTime>("StartTime")
+                        .HasColumnType("timestamp with time zone");
+
+                    b.Property<int>("UserId")
+                        .HasColumnType("integer");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("SeatId");
+
+                    b.HasIndex("UserId");
+
+                    b.ToTable("Reservations");
+                });
+
             modelBuilder.Entity("Library.Domain.Entities.Order", b =>
                 {
                     b.HasOne("Library.Domain.Entities.User", "User")
@@ -300,25 +300,6 @@ namespace Library.Infrastructure.Migrations
                     b.Navigation("Order");
                 });
 
-            modelBuilder.Entity("Library.Domain.Entities.Reservation", b =>
-                {
-                    b.HasOne("Library.Domain.Entities.Seat", "Seat")
-                        .WithMany("Reservations")
-                        .HasForeignKey("SeatId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.HasOne("Library.Domain.Entities.User", "User")
-                        .WithMany("Reservations")
-                        .HasForeignKey("UserId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("Seat");
-
-                    b.Navigation("User");
-                });
-
             modelBuilder.Entity("Library.Domain.Entities.Review", b =>
                 {
                     b.HasOne("Library.Domain.Entities.Book", "Book")
@@ -347,6 +328,25 @@ namespace Library.Infrastructure.Migrations
                         .IsRequired();
 
                     b.Navigation("ReadingRoom");
+                });
+
+            modelBuilder.Entity("Reservation", b =>
+                {
+                    b.HasOne("Library.Domain.Entities.Seat", "Seat")
+                        .WithMany("Reservations")
+                        .HasForeignKey("SeatId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("Library.Domain.Entities.User", "User")
+                        .WithMany("Reservations")
+                        .HasForeignKey("UserId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Seat");
+
+                    b.Navigation("User");
                 });
 
             modelBuilder.Entity("Library.Domain.Entities.Book", b =>

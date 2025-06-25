@@ -62,6 +62,7 @@ builder.Services.AddScoped<IBookService, BookService>();
 builder.Services.AddScoped<IReservationService, ReservationService>();
 builder.Services.AddScoped<IOrderService, OrderService>();
 builder.Services.AddScoped<IReviewService, ReviewService>();
+builder.Services.AddScoped<IStatisticsService, StatisticsService>();
 
 
 builder.Services.AddAuthorization();

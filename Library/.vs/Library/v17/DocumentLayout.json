@@ -3,15 +3,35 @@
   "WorkspaceRootPath": "F:\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410\u042F (\u0411\u0418\u0411\u041B\u0418\u041E\u0422\u0415\u041A\u0410)\\LibraryAPI\\Library\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{97DD92AC-6FBD-4FBD-9C8D-C26ABD6CF174}|Library.Web\\Library.Web.csproj|f:\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F (\u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430)\\libraryapi\\library\\library.web\\controllers\\statisticscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97DD92AC-6FBD-4FBD-9C8D-C26ABD6CF174}|Library.Web\\Library.Web.csproj|solutionrelative:library.web\\controllers\\statisticscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC00B55-484B-4D0B-A475-F2C4AADB9DF4}|Library.Infrastructure\\Library.Infrastructure.csproj|f:\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F (\u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430)\\libraryapi\\library\\library.infrastructure\\services\\statisticsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFC00B55-484B-4D0B-A475-F2C4AADB9DF4}|Library.Infrastructure\\Library.Infrastructure.csproj|solutionrelative:library.infrastructure\\services\\statisticsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{424FB6E3-8096-481B-93ED-8A6A9D6F1BF3}|Library.Application\\Library.Application.csproj|f:\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F (\u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430)\\libraryapi\\library\\library.application\\interfaces\\services\\istatisticsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{424FB6E3-8096-481B-93ED-8A6A9D6F1BF3}|Library.Application\\Library.Application.csproj|solutionrelative:library.application\\interfaces\\services\\istatisticsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{424FB6E3-8096-481B-93ED-8A6A9D6F1BF3}|Library.Application\\Library.Application.csproj|f:\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F (\u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430)\\libraryapi\\library\\library.application\\dto\\statistics\\librarystatsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{424FB6E3-8096-481B-93ED-8A6A9D6F1BF3}|Library.Application\\Library.Application.csproj|solutionrelative:library.application\\dto\\statistics\\librarystatsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{424FB6E3-8096-481B-93ED-8A6A9D6F1BF3}|Library.Application\\Library.Application.csproj|f:\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F (\u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430)\\libraryapi\\library\\library.application\\dto\\statistics\\topbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{424FB6E3-8096-481B-93ED-8A6A9D6F1BF3}|Library.Application\\Library.Application.csproj|solutionrelative:library.application\\dto\\statistics\\topbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{97DD92AC-6FBD-4FBD-9C8D-C26ABD6CF174}|Library.Web\\Library.Web.csproj|f:\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F (\u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430)\\libraryapi\\library\\library.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97DD92AC-6FBD-4FBD-9C8D-C26ABD6CF174}|Library.Web\\Library.Web.csproj|solutionrelative:library.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFC00B55-484B-4D0B-A475-F2C4AADB9DF4}|Library.Infrastructure\\Library.Infrastructure.csproj|f:\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F (\u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430)\\libraryapi\\library\\library.infrastructure\\services\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EFC00B55-484B-4D0B-A475-F2C4AADB9DF4}|Library.Infrastructure\\Library.Infrastructure.csproj|F:\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410\u042F (\u0411\u0418\u0411\u041B\u0418\u041E\u0422\u0415\u041A\u0410)\\LibraryAPI\\Library\\library.infrastructure\\services\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EFC00B55-484B-4D0B-A475-F2C4AADB9DF4}|Library.Infrastructure\\Library.Infrastructure.csproj|solutionrelative:library.infrastructure\\services\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CBCC1A55-266D-4DD8-965B-82106041A12F}|Library.Domain\\Library.Domain.csproj|f:\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F (\u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430)\\libraryapi\\library\\library.domain\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CBCC1A55-266D-4DD8-965B-82106041A12F}|Library.Domain\\Library.Domain.csproj|F:\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410\u042F (\u0411\u0418\u0411\u041B\u0418\u041E\u0422\u0415\u041A\u0410)\\LibraryAPI\\Library\\library.domain\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CBCC1A55-266D-4DD8-965B-82106041A12F}|Library.Domain\\Library.Domain.csproj|solutionrelative:library.domain\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -26,24 +46,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 190,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TopBookDto.cs",
+              "DocumentMoniker": "F:\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410\u042F (\u0411\u0418\u0411\u041B\u0418\u041E\u0422\u0415\u041A\u0410)\\LibraryAPI\\Library\\Library.Application\\DTO\\Statistics\\TopBookDto.cs",
+              "RelativeDocumentMoniker": "Library.Application\\DTO\\Statistics\\TopBookDto.cs",
+              "ToolTip": "F:\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410\u042F (\u0411\u0418\u0411\u041B\u0418\u041E\u0422\u0415\u041A\u0410)\\LibraryAPI\\Library\\Library.Application\\DTO\\Statistics\\TopBookDto.cs",
+              "RelativeToolTip": "Library.Application\\DTO\\Statistics\\TopBookDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T15:56:56.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StatisticsService.cs",
+              "DocumentMoniker": "F:\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410\u042F (\u0411\u0418\u0411\u041B\u0418\u041E\u0422\u0415\u041A\u0410)\\LibraryAPI\\Library\\Library.Infrastructure\\Services\\StatisticsService.cs",
+              "RelativeDocumentMoniker": "Library.Infrastructure\\Services\\StatisticsService.cs",
+              "ToolTip": "F:\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410\u042F (\u0411\u0418\u0411\u041B\u0418\u041E\u0422\u0415\u041A\u0410)\\LibraryAPI\\Library\\Library.Infrastructure\\Services\\StatisticsService.cs",
+              "RelativeToolTip": "Library.Infrastructure\\Services\\StatisticsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T15:50:31.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "StatisticsController.cs",
+              "DocumentMoniker": "F:\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410\u042F (\u0411\u0418\u0411\u041B\u0418\u041E\u0422\u0415\u041A\u0410)\\LibraryAPI\\Library\\Library.Web\\Controllers\\StatisticsController.cs",
+              "RelativeDocumentMoniker": "Library.Web\\Controllers\\StatisticsController.cs",
+              "ToolTip": "F:\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410\u042F (\u0411\u0418\u0411\u041B\u0418\u041E\u0422\u0415\u041A\u0410)\\LibraryAPI\\Library\\Library.Web\\Controllers\\StatisticsController.cs",
+              "RelativeToolTip": "Library.Web\\Controllers\\StatisticsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T15:51:30.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IStatisticsService.cs",
+              "DocumentMoniker": "F:\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410\u042F (\u0411\u0418\u0411\u041B\u0418\u041E\u0422\u0415\u041A\u0410)\\LibraryAPI\\Library\\Library.Application\\Interfaces\\Services\\IStatisticsService.cs",
+              "RelativeDocumentMoniker": "Library.Application\\Interfaces\\Services\\IStatisticsService.cs",
+              "ToolTip": "F:\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410\u042F (\u0411\u0418\u0411\u041B\u0418\u041E\u0422\u0415\u041A\u0410)\\LibraryAPI\\Library\\Library.Application\\Interfaces\\Services\\IStatisticsService.cs",
+              "RelativeToolTip": "Library.Application\\Interfaces\\Services\\IStatisticsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T15:49:28.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LibraryStatsDto.cs",
+              "DocumentMoniker": "F:\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410\u042F (\u0411\u0418\u0411\u041B\u0418\u041E\u0422\u0415\u041A\u0410)\\LibraryAPI\\Library\\Library.Application\\DTO\\Statistics\\LibraryStatsDto.cs",
+              "RelativeDocumentMoniker": "Library.Application\\DTO\\Statistics\\LibraryStatsDto.cs",
+              "ToolTip": "F:\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410\u042F (\u0411\u0418\u0411\u041B\u0418\u041E\u0422\u0415\u041A\u0410)\\LibraryAPI\\Library\\Library.Application\\DTO\\Statistics\\LibraryStatsDto.cs",
+              "RelativeToolTip": "Library.Application\\DTO\\Statistics\\LibraryStatsDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T15:48:39.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410\u042F (\u0411\u0418\u0411\u041B\u0418\u041E\u0422\u0415\u041A\u0410)\\LibraryAPI\\Library\\Library.Web\\Program.cs",
               "RelativeDocumentMoniker": "Library.Web\\Program.cs",
               "ToolTip": "F:\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410\u042F (\u0411\u0418\u0411\u041B\u0418\u041E\u0422\u0415\u041A\u0410)\\LibraryAPI\\Library\\Library.Web\\Program.cs",
               "RelativeToolTip": "Library.Web\\Program.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAAAEIAAAAkAAAA",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAEAAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-25T09:30:03.336Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Review.cs",
               "DocumentMoniker": "F:\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410\u042F (\u0411\u0418\u0411\u041B\u0418\u041E\u0422\u0415\u041A\u0410)\\LibraryAPI\\Library\\Library.Domain\\Entities\\Review.cs",
               "RelativeDocumentMoniker": "Library.Domain\\Entities\\Review.cs",
@@ -51,12 +136,11 @@
               "RelativeToolTip": "Library.Domain\\Entities\\Review.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T09:29:42.46Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-25T09:29:42.46Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "ReviewService.cs",
               "DocumentMoniker": "F:\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410\u042F (\u0411\u0418\u0411\u041B\u0418\u041E\u0422\u0415\u041A\u0410)\\LibraryAPI\\Library\\Library.Infrastructure\\Services\\ReviewService.cs",
               "RelativeDocumentMoniker": "Library.Infrastructure\\Services\\ReviewService.cs",
@@ -64,12 +148,11 @@
               "RelativeToolTip": "Library.Infrastructure\\Services\\ReviewService.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAUwCgAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T09:26:25.024Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-25T09:26:25.024Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Order.cs",
               "DocumentMoniker": "F:\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410\u042F (\u0411\u0418\u0411\u041B\u0418\u041E\u0422\u0415\u041A\u0410)\\LibraryAPI\\Library\\Library.Domain\\Entities\\Order.cs",
               "RelativeDocumentMoniker": "Library.Domain\\Entities\\Order.cs",

@@ -12,7 +12,7 @@ using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 namespace Library.Infrastructure.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20250624180008_InitialCreate")]
+    [Migration("20250625093623_InitialCreate")]
     partial class InitialCreate
     {
         /// <inheritdoc />
@@ -155,15 +155,15 @@ namespace Library.Infrastructure.Migrations
                     b.Property<int>("BookId")
                         .HasColumnType("integer");
 
+                    b.Property<string>("Comment")
+                        .IsRequired()
+                        .HasColumnType("text");
+
                     b.Property<DateTime>("CreatedAt")
                         .HasColumnType("timestamp with time zone");
 
                     b.Property<int>("Rating")
                         .HasColumnType("integer");
-
-                    b.Property<string>("Text")
-                        .IsRequired()
-                        .HasColumnType("text");
 
                     b.Property<int>("UserId")
                         .HasColumnType("integer");

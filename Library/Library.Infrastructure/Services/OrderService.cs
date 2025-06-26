@@ -1,4 +1,4 @@
-﻿using Library.Application.DTO;  // заменил namespace
+﻿using Library.Application.DTO;  
 using Library.Application.Interfaces.Services;
 using Library.Domain.Entities;
 using Library.Infrastructure.Data;
@@ -19,7 +19,7 @@ public class OrderService : IOrderService
         {
             UserId = userId,
             CreatedAt = DateTime.UtcNow,
-            Status = OrderStatus.Active,  // <-- проверь enum, если нет, замени на существующее значение
+            Status = OrderStatus.Active, 
             OrderBooks = dto.BookIds.Select(bookId => new OrderBook
             {
                 BookId = bookId
@@ -55,7 +55,7 @@ public class OrderService : IOrderService
         if (!isAdmin && order.UserId != userId)
             throw new Exception("Нет доступа");
 
-        order.Status = OrderStatus.Canceled;  // <-- проверь enum, если нет, замени на существующее значение
+        order.Status = OrderStatus.Canceled; 
         await _context.SaveChangesAsync();
     }
 }

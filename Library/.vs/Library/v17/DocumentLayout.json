@@ -3,52 +3,72 @@
   "WorkspaceRootPath": "F:\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410\u042F (\u0411\u0418\u0411\u041B\u0418\u041E\u0422\u0415\u041A\u0410)\\LibraryAPI\\Library\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EFC00B55-484B-4D0B-A475-F2C4AADB9DF4}|Library.Infrastructure\\Library.Infrastructure.csproj|f:\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F (\u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430)\\libraryapi\\library\\library.infrastructure\\services\\statisticsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFC00B55-484B-4D0B-A475-F2C4AADB9DF4}|Library.Infrastructure\\Library.Infrastructure.csproj|solutionrelative:library.infrastructure\\services\\statisticsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC00B55-484B-4D0B-A475-F2C4AADB9DF4}|Library.Infrastructure\\Library.Infrastructure.csproj|F:\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410\u042F (\u0411\u0418\u0411\u041B\u0418\u041E\u0422\u0415\u041A\u0410)\\LibraryAPI\\Library\\library.infrastructure\\services\\seatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFC00B55-484B-4D0B-A475-F2C4AADB9DF4}|Library.Infrastructure\\Library.Infrastructure.csproj|solutionrelative:library.infrastructure\\services\\seatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EFC00B55-484B-4D0B-A475-F2C4AADB9DF4}|Library.Infrastructure\\Library.Infrastructure.csproj|f:\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F (\u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430)\\libraryapi\\library\\library.infrastructure\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EFC00B55-484B-4D0B-A475-F2C4AADB9DF4}|Library.Infrastructure\\Library.Infrastructure.csproj|solutionrelative:library.infrastructure\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{424FB6E3-8096-481B-93ED-8A6A9D6F1BF3}|Library.Application\\Library.Application.csproj|f:\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F (\u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430)\\libraryapi\\library\\library.application\\dto\\reservations\\reservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{424FB6E3-8096-481B-93ED-8A6A9D6F1BF3}|Library.Application\\Library.Application.csproj|solutionrelative:library.application\\dto\\reservations\\reservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{424FB6E3-8096-481B-93ED-8A6A9D6F1BF3}|Library.Application\\Library.Application.csproj|f:\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F (\u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430)\\libraryapi\\library\\library.application\\dto\\user\\userprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{424FB6E3-8096-481B-93ED-8A6A9D6F1BF3}|Library.Application\\Library.Application.csproj|solutionrelative:library.application\\dto\\user\\userprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{424FB6E3-8096-481B-93ED-8A6A9D6F1BF3}|Library.Application\\Library.Application.csproj|f:\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F (\u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430)\\libraryapi\\library\\library.application\\interfaces\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{424FB6E3-8096-481B-93ED-8A6A9D6F1BF3}|Library.Application\\Library.Application.csproj|solutionrelative:library.application\\interfaces\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97DD92AC-6FBD-4FBD-9C8D-C26ABD6CF174}|Library.Web\\Library.Web.csproj|f:\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F (\u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430)\\libraryapi\\library\\library.web\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97DD92AC-6FBD-4FBD-9C8D-C26ABD6CF174}|Library.Web\\Library.Web.csproj|solutionrelative:library.web\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97DD92AC-6FBD-4FBD-9C8D-C26ABD6CF174}|Library.Web\\Library.Web.csproj|f:\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F (\u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430)\\libraryapi\\library\\library.web\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97DD92AC-6FBD-4FBD-9C8D-C26ABD6CF174}|Library.Web\\Library.Web.csproj|solutionrelative:library.web\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97DD92AC-6FBD-4FBD-9C8D-C26ABD6CF174}|Library.Web\\Library.Web.csproj|f:\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F (\u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430)\\libraryapi\\library\\library.web\\controllers\\readingroomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97DD92AC-6FBD-4FBD-9C8D-C26ABD6CF174}|Library.Web\\Library.Web.csproj|solutionrelative:library.web\\controllers\\readingroomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFC00B55-484B-4D0B-A475-F2C4AADB9DF4}|Library.Infrastructure\\Library.Infrastructure.csproj|f:\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F (\u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430)\\libraryapi\\library\\library.infrastructure\\services\\readingroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EFC00B55-484B-4D0B-A475-F2C4AADB9DF4}|Library.Infrastructure\\Library.Infrastructure.csproj|F:\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410\u042F (\u0411\u0418\u0411\u041B\u0418\u041E\u0422\u0415\u041A\u0410)\\LibraryAPI\\Library\\library.infrastructure\\services\\readingroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EFC00B55-484B-4D0B-A475-F2C4AADB9DF4}|Library.Infrastructure\\Library.Infrastructure.csproj|solutionrelative:library.infrastructure\\services\\readingroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFC00B55-484B-4D0B-A475-F2C4AADB9DF4}|Library.Infrastructure\\Library.Infrastructure.csproj|f:\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F (\u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430)\\libraryapi\\library\\library.infrastructure\\services\\seatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFC00B55-484B-4D0B-A475-F2C4AADB9DF4}|Library.Infrastructure\\Library.Infrastructure.csproj|solutionrelative:library.infrastructure\\services\\seatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EFC00B55-484B-4D0B-A475-F2C4AADB9DF4}|Library.Infrastructure\\Library.Infrastructure.csproj|f:\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F (\u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430)\\libraryapi\\library\\library.infrastructure\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFC00B55-484B-4D0B-A475-F2C4AADB9DF4}|Library.Infrastructure\\Library.Infrastructure.csproj|solutionrelative:library.infrastructure\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97DD92AC-6FBD-4FBD-9C8D-C26ABD6CF174}|Library.Web\\Library.Web.csproj|f:\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F (\u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430)\\libraryapi\\library\\library.web\\controllers\\seatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97DD92AC-6FBD-4FBD-9C8D-C26ABD6CF174}|Library.Web\\Library.Web.csproj|solutionrelative:library.web\\controllers\\seatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EFC00B55-484B-4D0B-A475-F2C4AADB9DF4}|Library.Infrastructure\\Library.Infrastructure.csproj|f:\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F (\u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430)\\libraryapi\\library\\library.infrastructure\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFC00B55-484B-4D0B-A475-F2C4AADB9DF4}|Library.Infrastructure\\Library.Infrastructure.csproj|solutionrelative:library.infrastructure\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{424FB6E3-8096-481B-93ED-8A6A9D6F1BF3}|Library.Application\\Library.Application.csproj|f:\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F (\u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430)\\libraryapi\\library\\library.application\\interfaces\\services\\ireadingroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97DD92AC-6FBD-4FBD-9C8D-C26ABD6CF174}|Library.Web\\Library.Web.csproj|F:\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410\u042F (\u0411\u0418\u0411\u041B\u0418\u041E\u0422\u0415\u041A\u0410)\\LibraryAPI\\Library\\library.web\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97DD92AC-6FBD-4FBD-9C8D-C26ABD6CF174}|Library.Web\\Library.Web.csproj|solutionrelative:library.web\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97DD92AC-6FBD-4FBD-9C8D-C26ABD6CF174}|Library.Web\\Library.Web.csproj|F:\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410\u042F (\u0411\u0418\u0411\u041B\u0418\u041E\u0422\u0415\u041A\u0410)\\LibraryAPI\\Library\\library.web\\controllers\\readingroomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97DD92AC-6FBD-4FBD-9C8D-C26ABD6CF174}|Library.Web\\Library.Web.csproj|solutionrelative:library.web\\controllers\\readingroomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97DD92AC-6FBD-4FBD-9C8D-C26ABD6CF174}|Library.Web\\Library.Web.csproj|f:\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F (\u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430)\\libraryapi\\library\\library.web\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97DD92AC-6FBD-4FBD-9C8D-C26ABD6CF174}|Library.Web\\Library.Web.csproj|solutionrelative:library.web\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{424FB6E3-8096-481B-93ED-8A6A9D6F1BF3}|Library.Application\\Library.Application.csproj|F:\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410\u042F (\u0411\u0418\u0411\u041B\u0418\u041E\u0422\u0415\u041A\u0410)\\LibraryAPI\\Library\\library.application\\interfaces\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{424FB6E3-8096-481B-93ED-8A6A9D6F1BF3}|Library.Application\\Library.Application.csproj|solutionrelative:library.application\\interfaces\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{424FB6E3-8096-481B-93ED-8A6A9D6F1BF3}|Library.Application\\Library.Application.csproj|F:\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410\u042F (\u0411\u0418\u0411\u041B\u0418\u041E\u0422\u0415\u041A\u0410)\\LibraryAPI\\Library\\library.application\\interfaces\\services\\iseatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{424FB6E3-8096-481B-93ED-8A6A9D6F1BF3}|Library.Application\\Library.Application.csproj|solutionrelative:library.application\\interfaces\\services\\iseatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{424FB6E3-8096-481B-93ED-8A6A9D6F1BF3}|Library.Application\\Library.Application.csproj|F:\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410\u042F (\u0411\u0418\u0411\u041B\u0418\u041E\u0422\u0415\u041A\u0410)\\LibraryAPI\\Library\\library.application\\interfaces\\services\\ireadingroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{424FB6E3-8096-481B-93ED-8A6A9D6F1BF3}|Library.Application\\Library.Application.csproj|solutionrelative:library.application\\interfaces\\services\\ireadingroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{424FB6E3-8096-481B-93ED-8A6A9D6F1BF3}|Library.Application\\Library.Application.csproj|f:\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F (\u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430)\\libraryapi\\library\\library.application\\interfaces\\services\\iseatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{424FB6E3-8096-481B-93ED-8A6A9D6F1BF3}|Library.Application\\Library.Application.csproj|solutionrelative:library.application\\interfaces\\services\\iseatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{424FB6E3-8096-481B-93ED-8A6A9D6F1BF3}|Library.Application\\Library.Application.csproj|F:\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410\u042F (\u0411\u0418\u0411\u041B\u0418\u041E\u0422\u0415\u041A\u0410)\\LibraryAPI\\Library\\library.application\\dto\\user\\userprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{424FB6E3-8096-481B-93ED-8A6A9D6F1BF3}|Library.Application\\Library.Application.csproj|solutionrelative:library.application\\dto\\user\\userprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{424FB6E3-8096-481B-93ED-8A6A9D6F1BF3}|Library.Application\\Library.Application.csproj|f:\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F (\u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430)\\libraryapi\\library\\library.application\\dto\\reviews\\reviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{424FB6E3-8096-481B-93ED-8A6A9D6F1BF3}|Library.Application\\Library.Application.csproj|solutionrelative:library.application\\dto\\reviews\\reviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{424FB6E3-8096-481B-93ED-8A6A9D6F1BF3}|Library.Application\\Library.Application.csproj|F:\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410\u042F (\u0411\u0418\u0411\u041B\u0418\u041E\u0422\u0415\u041A\u0410)\\LibraryAPI\\Library\\library.application\\dto\\reservations\\reservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{424FB6E3-8096-481B-93ED-8A6A9D6F1BF3}|Library.Application\\Library.Application.csproj|solutionrelative:library.application\\dto\\reservations\\reservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97DD92AC-6FBD-4FBD-9C8D-C26ABD6CF174}|Library.Web\\Library.Web.csproj|F:\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410\u042F (\u0411\u0418\u0411\u041B\u0418\u041E\u0422\u0415\u041A\u0410)\\LibraryAPI\\Library\\library.web\\controllers\\seatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97DD92AC-6FBD-4FBD-9C8D-C26ABD6CF174}|Library.Web\\Library.Web.csproj|solutionrelative:library.web\\controllers\\seatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97DD92AC-6FBD-4FBD-9C8D-C26ABD6CF174}|Library.Web\\Library.Web.csproj|F:\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410\u042F (\u0411\u0418\u0411\u041B\u0418\u041E\u0422\u0415\u041A\u0410)\\LibraryAPI\\Library\\library.web\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97DD92AC-6FBD-4FBD-9C8D-C26ABD6CF174}|Library.Web\\Library.Web.csproj|solutionrelative:library.web\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EFC00B55-484B-4D0B-A475-F2C4AADB9DF4}|Library.Infrastructure\\Library.Infrastructure.csproj|F:\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410\u042F (\u0411\u0418\u0411\u041B\u0418\u041E\u0422\u0415\u041A\u0410)\\LibraryAPI\\Library\\library.infrastructure\\services\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -62,11 +82,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 190,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 13,
+              "Title": "ReviewDto.cs",
+              "DocumentMoniker": "F:\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410\u042F (\u0411\u0418\u0411\u041B\u0418\u041E\u0422\u0415\u041A\u0410)\\LibraryAPI\\Library\\Library.Application\\DTO\\Reviews\\ReviewDto.cs",
+              "RelativeDocumentMoniker": "Library.Application\\DTO\\Reviews\\ReviewDto.cs",
+              "ToolTip": "F:\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410\u042F (\u0411\u0418\u0411\u041B\u0418\u041E\u0422\u0415\u041A\u0410)\\LibraryAPI\\Library\\Library.Application\\DTO\\Reviews\\ReviewDto.cs",
+              "RelativeToolTip": "Library.Application\\DTO\\Reviews\\ReviewDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T01:30:28.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "F:\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410\u042F (\u0411\u0418\u0411\u041B\u0418\u041E\u0422\u0415\u041A\u0410)\\LibraryAPI\\Library\\Library.Web\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Library.Web\\Controllers\\OrderController.cs",
+              "ToolTip": "F:\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410\u042F (\u0411\u0418\u0411\u041B\u0418\u041E\u0422\u0415\u041A\u0410)\\LibraryAPI\\Library\\Library.Web\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Library.Web\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T01:28:40.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "F:\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410\u042F (\u0411\u0418\u0411\u041B\u0418\u041E\u0422\u0415\u041A\u0410)\\LibraryAPI\\Library\\Library.Infrastructure\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Library.Infrastructure\\Services\\AuthService.cs",
+              "ToolTip": "F:\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410\u042F (\u0411\u0418\u0411\u041B\u0418\u041E\u0422\u0415\u041A\u0410)\\LibraryAPI\\Library\\Library.Infrastructure\\Services\\AuthService.cs",
+              "RelativeToolTip": "Library.Infrastructure\\Services\\AuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T01:28:03.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "F:\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410\u042F (\u0411\u0418\u0411\u041B\u0418\u041E\u0422\u0415\u041A\u0410)\\LibraryAPI\\Library\\Library.Infrastructure\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "Library.Infrastructure\\Services\\OrderService.cs",
+              "ToolTip": "F:\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410\u042F (\u0411\u0418\u0411\u041B\u0418\u041E\u0422\u0415\u041A\u0410)\\LibraryAPI\\Library\\Library.Infrastructure\\Services\\OrderService.cs",
+              "RelativeToolTip": "Library.Infrastructure\\Services\\OrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T01:27:48.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StatisticsService.cs",
+              "DocumentMoniker": "F:\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410\u042F (\u0411\u0418\u0411\u041B\u0418\u041E\u0422\u0415\u041A\u0410)\\LibraryAPI\\Library\\Library.Infrastructure\\Services\\StatisticsService.cs",
+              "RelativeDocumentMoniker": "Library.Infrastructure\\Services\\StatisticsService.cs",
+              "ToolTip": "F:\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410\u042F (\u0411\u0418\u0411\u041B\u0418\u041E\u0422\u0415\u041A\u0410)\\LibraryAPI\\Library\\Library.Infrastructure\\Services\\StatisticsService.cs",
+              "RelativeToolTip": "Library.Infrastructure\\Services\\StatisticsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T01:17:50.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "ReservationDto.cs",
               "DocumentMoniker": "F:\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410\u042F (\u0411\u0418\u0411\u041B\u0418\u041E\u0422\u0415\u041A\u0410)\\LibraryAPI\\Library\\Library.Application\\DTO\\Reservations\\ReservationDto.cs",
               "RelativeDocumentMoniker": "Library.Application\\DTO\\Reservations\\ReservationDto.cs",
@@ -79,72 +164,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "UserService.cs",
               "DocumentMoniker": "F:\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410\u042F (\u0411\u0418\u0411\u041B\u0418\u041E\u0422\u0415\u041A\u0410)\\LibraryAPI\\Library\\Library.Infrastructure\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "Library.Infrastructure\\Services\\UserService.cs",
               "ToolTip": "F:\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410\u042F (\u0411\u0418\u0411\u041B\u0418\u041E\u0422\u0415\u041A\u0410)\\LibraryAPI\\Library\\Library.Infrastructure\\Services\\UserService.cs",
               "RelativeToolTip": "Library.Infrastructure\\Services\\UserService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAANAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-26T00:52:48.62Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "IUserService.cs",
               "DocumentMoniker": "F:\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410\u042F (\u0411\u0418\u0411\u041B\u0418\u041E\u0422\u0415\u041A\u0410)\\LibraryAPI\\Library\\Library.Application\\Interfaces\\Services\\IUserService.cs",
               "RelativeDocumentMoniker": "Library.Application\\Interfaces\\Services\\IUserService.cs",
               "ToolTip": "F:\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410\u042F (\u0411\u0418\u0411\u041B\u0418\u041E\u0422\u0415\u041A\u0410)\\LibraryAPI\\Library\\Library.Application\\Interfaces\\Services\\IUserService.cs",
               "RelativeToolTip": "Library.Application\\Interfaces\\Services\\IUserService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA5AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-26T00:52:25.347Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 12,
               "Title": "UserProfileDto.cs",
               "DocumentMoniker": "F:\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410\u042F (\u0411\u0418\u0411\u041B\u0418\u041E\u0422\u0415\u041A\u0410)\\LibraryAPI\\Library\\Library.Application\\DTO\\User\\UserProfileDto.cs",
               "RelativeDocumentMoniker": "Library.Application\\DTO\\User\\UserProfileDto.cs",
               "ToolTip": "F:\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410\u042F (\u0411\u0418\u0411\u041B\u0418\u041E\u0422\u0415\u041A\u0410)\\LibraryAPI\\Library\\Library.Application\\DTO\\User\\UserProfileDto.cs",
               "RelativeToolTip": "Library.Application\\DTO\\User\\UserProfileDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-26T00:50:54.206Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 16,
               "Title": "ProfileController.cs",
               "DocumentMoniker": "F:\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410\u042F (\u0411\u0418\u0411\u041B\u0418\u041E\u0422\u0415\u041A\u0410)\\LibraryAPI\\Library\\Library.Web\\Controllers\\ProfileController.cs",
               "RelativeDocumentMoniker": "Library.Web\\Controllers\\ProfileController.cs",
               "ToolTip": "F:\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410\u042F (\u0411\u0418\u0411\u041B\u0418\u041E\u0422\u0415\u041A\u0410)\\LibraryAPI\\Library\\Library.Web\\Controllers\\ProfileController.cs",
               "RelativeToolTip": "Library.Web\\Controllers\\ProfileController.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAcwBwAAAAcAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-26T00:48:42.415Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ReservationController.cs",
               "DocumentMoniker": "F:\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410\u042F (\u0411\u0418\u0411\u041B\u0418\u041E\u0422\u0415\u041A\u0410)\\LibraryAPI\\Library\\Library.Web\\Controllers\\ReservationController.cs",
               "RelativeDocumentMoniker": "Library.Web\\Controllers\\ReservationController.cs",
               "ToolTip": "F:\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410\u042F (\u0411\u0418\u0411\u041B\u0418\u041E\u0422\u0415\u041A\u0410)\\LibraryAPI\\Library\\Library.Web\\Controllers\\ReservationController.cs",
               "RelativeToolTip": "Library.Web\\Controllers\\ReservationController.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAkwBwAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-26T00:44:35.183Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "SeatController.cs",
               "DocumentMoniker": "F:\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410\u042F (\u0411\u0418\u0411\u041B\u0418\u041E\u0422\u0415\u041A\u0410)\\LibraryAPI\\Library\\Library.Web\\Controllers\\SeatController.cs",
               "RelativeDocumentMoniker": "Library.Web\\Controllers\\SeatController.cs",
@@ -157,7 +242,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "ReadingRoomController.cs",
               "DocumentMoniker": "F:\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410\u042F (\u0411\u0418\u0411\u041B\u0418\u041E\u0422\u0415\u041A\u0410)\\LibraryAPI\\Library\\Library.Web\\Controllers\\ReadingRoomController.cs",
               "RelativeDocumentMoniker": "Library.Web\\Controllers\\ReadingRoomController.cs",
@@ -170,65 +255,65 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "ISeatService.cs",
               "DocumentMoniker": "F:\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410\u042F (\u0411\u0418\u0411\u041B\u0418\u041E\u0422\u0415\u041A\u0410)\\LibraryAPI\\Library\\Library.Application\\Interfaces\\Services\\ISeatService.cs",
               "RelativeDocumentMoniker": "Library.Application\\Interfaces\\Services\\ISeatService.cs",
               "ToolTip": "F:\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410\u042F (\u0411\u0418\u0411\u041B\u0418\u041E\u0422\u0415\u041A\u0410)\\LibraryAPI\\Library\\Library.Application\\Interfaces\\Services\\ISeatService.cs",
               "RelativeToolTip": "Library.Application\\Interfaces\\Services\\ISeatService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-26T00:34:58.263Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "IReadingRoomService.cs",
               "DocumentMoniker": "F:\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410\u042F (\u0411\u0418\u0411\u041B\u0418\u041E\u0422\u0415\u041A\u0410)\\LibraryAPI\\Library\\Library.Application\\Interfaces\\Services\\IReadingRoomService.cs",
               "RelativeDocumentMoniker": "Library.Application\\Interfaces\\Services\\IReadingRoomService.cs",
               "ToolTip": "F:\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410\u042F (\u0411\u0418\u0411\u041B\u0418\u041E\u0422\u0415\u041A\u0410)\\LibraryAPI\\Library\\Library.Application\\Interfaces\\Services\\IReadingRoomService.cs",
               "RelativeToolTip": "Library.Application\\Interfaces\\Services\\IReadingRoomService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-26T00:34:36.324Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "SeatService.cs",
               "DocumentMoniker": "F:\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410\u042F (\u0411\u0418\u0411\u041B\u0418\u041E\u0422\u0415\u041A\u0410)\\LibraryAPI\\Library\\Library.Infrastructure\\Services\\SeatService.cs",
               "RelativeDocumentMoniker": "Library.Infrastructure\\Services\\SeatService.cs",
               "ToolTip": "F:\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410\u042F (\u0411\u0418\u0411\u041B\u0418\u041E\u0422\u0415\u041A\u0410)\\LibraryAPI\\Library\\Library.Infrastructure\\Services\\SeatService.cs",
               "RelativeToolTip": "Library.Infrastructure\\Services\\SeatService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-26T00:34:15.519Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "ReadingRoomService.cs",
               "DocumentMoniker": "F:\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410\u042F (\u0411\u0418\u0411\u041B\u0418\u041E\u0422\u0415\u041A\u0410)\\LibraryAPI\\Library\\Library.Infrastructure\\Services\\ReadingRoomService.cs",
               "RelativeDocumentMoniker": "Library.Infrastructure\\Services\\ReadingRoomService.cs",
               "ToolTip": "F:\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410\u042F (\u0411\u0418\u0411\u041B\u0418\u041E\u0422\u0415\u041A\u0410)\\LibraryAPI\\Library\\Library.Infrastructure\\Services\\ReadingRoomService.cs",
               "RelativeToolTip": "Library.Infrastructure\\Services\\ReadingRoomService.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAowAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-26T00:33:54.379Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "ReviewService.cs",
               "DocumentMoniker": "F:\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410\u042F (\u0411\u0418\u0411\u041B\u0418\u041E\u0422\u0415\u041A\u0410)\\LibraryAPI\\Library\\Library.Infrastructure\\Services\\ReviewService.cs",
               "RelativeDocumentMoniker": "Library.Infrastructure\\Services\\ReviewService.cs",
               "ToolTip": "F:\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410\u042F (\u0411\u0418\u0411\u041B\u0418\u041E\u0422\u0415\u041A\u0410)\\LibraryAPI\\Library\\Library.Infrastructure\\Services\\ReviewService.cs",
               "RelativeToolTip": "Library.Infrastructure\\Services\\ReviewService.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAUwCgAAAAkAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-25T09:26:25.024Z",
               "EditorCaption": ""

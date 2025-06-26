@@ -1,4 +1,4 @@
-﻿using Library.Application.DTO;  // DTO, например CreateOrderDto, OrderDto
+﻿using Library.Application.DTO; 
 using Library.Application.Interfaces.Services;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
@@ -17,12 +17,10 @@ namespace Library.API.Controllers
             _orderService = orderService;
         }
 
-        // Создать заказ
         [HttpPost]
-        [Authorize] // Только авторизованные могут создавать заказ
+        [Authorize] 
         public async Task<IActionResult> CreateOrder([FromBody] CreateOrderDto dto)
         {
-            // Получаем userId из JWT токена (Claim)
             var userIdClaim = User.FindFirst(ClaimTypes.NameIdentifier);
             if (userIdClaim == null)
                 return Unauthorized();
@@ -34,7 +32,6 @@ namespace Library.API.Controllers
             return Ok(new { OrderId = orderId });
         }
 
-        // Получить заказы текущего пользователя
         [HttpGet("my")]
         [Authorize]
         public async Task<IActionResult> GetMyOrders()
@@ -50,7 +47,7 @@ namespace Library.API.Controllers
             return Ok(orders);
         }
 
-        // Отменить заказ (может админ или владелец)
+        // Отменить заказ (админ или владелец)
         [HttpPost("{orderId}/cancel")]
         [Authorize]
         public async Task<IActionResult> CancelOrder(int orderId)
@@ -62,7 +59,6 @@ namespace Library.API.Controllers
             if (!int.TryParse(userIdClaim.Value, out int userId))
                 return Unauthorized();
 
-            // Проверим роль пользователя
             var roleClaim = User.FindFirst(ClaimTypes.Role);
             bool isAdmin = roleClaim != null && roleClaim.Value == "Admin";
 

@@ -20,7 +20,7 @@ public class StatisticsService : IStatisticsService
         var returnedBooks = await _context.OrderBooks.CountAsync(ob => ob.IsReturned);
 
         var topBooks = await _context.OrderBooks
-            .Include(ob => ob.Book) // Нужно для доступа к Title
+            .Include(ob => ob.Book) 
             .GroupBy(ob => ob.BookId)
             .OrderByDescending(g => g.Count())
             .Take(5)
@@ -30,7 +30,7 @@ public class StatisticsService : IStatisticsService
                 Title = g.First().Book.Title,
                 OrdersCount = g.Count()
             })
-            .ToListAsync(); // ❗ теперь без ошибок
+            .ToListAsync(); 
 
         var totalUsers = await _context.Users.CountAsync();
         var admins = await _context.Users.CountAsync(u => u.Role == UserRole.Admin);

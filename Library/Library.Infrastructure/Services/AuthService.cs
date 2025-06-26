@@ -49,7 +49,6 @@ public class AuthService : IAuthService
         }
         catch (DbUpdateException ex)
         {
-            // Возвращаем наиболее полезную ошибку
             var innerMessage = ex.InnerException?.Message ?? ex.Message;
             throw new Exception($"Ошибка при сохранении пользователя: {innerMessage}");
         }

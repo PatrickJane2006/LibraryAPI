@@ -7,7 +7,7 @@ namespace Library.Web.Controllers;
 
 [ApiController]
 [Route("api/[controller]")]
-[Authorize] // доступ только с токеном
+[Authorize] 
 public class ProfileController : ControllerBase
 {
     private readonly IUserService _userService;

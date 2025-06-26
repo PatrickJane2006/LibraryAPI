@@ -1,4 +1,6 @@
-﻿namespace Library.Application.DTO.User;
+﻿using Library.Application.DTO.Reservations;
+
+namespace Library.Application.DTO.Users;
 
 public class UserProfileDto
 {
@@ -8,4 +10,5 @@ public class UserProfileDto
     public string Address { get; set; } = null!;
     public DateTime BirthDate { get; set; }
     public string Role { get; set; } = null!;
+    public List<ReservationDto> Reservations { get; set; } = new();
 }

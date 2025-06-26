@@ -1,4 +1,4 @@
-﻿using Library.Application.DTO.User;
+﻿using Library.Application.DTO.Users;
 
 namespace Library.Application.Interfaces.Services;
 

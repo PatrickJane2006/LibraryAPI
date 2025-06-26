@@ -11,7 +11,7 @@ public class Review
     public User User { get; set; } = null!;
 
     public int Rating { get; set; }          // Оценка (например, от 1 до 5)
-    public string Comment { get; set; } = ""; // Текст отзыва
+    public string Comment { get; set; } = ""; 
 
-    public DateTime CreatedAt { get; set; }   // Дата создания
+    public DateTime CreatedAt { get; set; } 
 }

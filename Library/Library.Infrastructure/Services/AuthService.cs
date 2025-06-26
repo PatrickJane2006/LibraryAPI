@@ -85,7 +85,7 @@ public class AuthService : IAuthService
             Expires = DateTime.UtcNow.AddDays(7),
             SigningCredentials = new SigningCredentials(
                 new SymmetricSecurityKey(key),
-                SecurityAlgorithms.HmacSha256 // Исправлено здесь
+                SecurityAlgorithms.HmacSha256 
             )
         };
 
